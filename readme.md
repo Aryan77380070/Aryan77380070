@@ -1,7 +1,6 @@
 # Hi 👋, I'm Aryan Singh
 
 ## 🚀 About Me
-- Associate Software Engineer Aspirant
 - Interested in AI/ML, Python, SQL, and Data Science
 - Currently learning RAGs and LLMs
 - Building AI-powered projects
