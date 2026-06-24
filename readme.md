@@ -23,6 +23,7 @@
 - PostgreSQL
 - Qdrant
 - vectordb
+- Chromadb
 
 ## 📌 Featured Projects
 
